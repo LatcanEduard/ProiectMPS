@@ -3,3 +3,6 @@ bin
 appsettings.json
 *.db
 *.rdb
+.idea/.idea.skinet
+.skinet.sln
+.vscode
